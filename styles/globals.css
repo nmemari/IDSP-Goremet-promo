@@ -1,3 +1,6 @@
+@import url('https://fonts.cdnfonts.com/css/melted-monster');
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
 :root {
   --almond: #F1DAC4;
   --ultra-violet: #474973;
@@ -6,4 +9,13 @@
   --cadet-blue: #2F3253;
   --monster-green: #B3F460;
   --purple: #7A5A96;
+}
+
+/* 
+  font-family: 'Melted Monster', sans-serif; 
+  font-family: 'Mali', cursive;
+*/
+
+body {
+  margin: 0 ;
 }
