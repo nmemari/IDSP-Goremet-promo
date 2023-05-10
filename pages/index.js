@@ -7,6 +7,7 @@ import CompTwo from '@/components/CompTwo'
 import CompThree from '@/components/CompThree'
 import CompFour from '@/components/CompFour'
 import CompFive from '@/components/CompFive'
+import NavBar from '@/components/NavBar'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -20,6 +21,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
+        <NavBar />
         <CompOne />
         <CompTwo />
         <CompThree />
