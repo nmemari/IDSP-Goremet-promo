@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 1285px;
+    width: 965;
+    background-color: var(--oxford-blue);
+}
+
+.title {
+    font-family: 'Melted Monster', sans-serif; 
+    -webkit-text-stroke: var(--cadet-blue) 2px;
+    color: var(--monster-green);
+    font-size: 65px;
+    width: 500px;
+    text-align: center;
+}
+
+.slider {
+    margin-top: 100px;
+}
+
