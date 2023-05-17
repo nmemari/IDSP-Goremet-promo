@@ -1,0 +1,30 @@
+.bg__container {
+    width: 965px;
+    height: 2222px;
+    font-family: 'Melted Monster', sans-serif; 
+    margin-top: -10rem;
+}
+
+.content__container h3{
+    font-size: 48px;
+    color: var(--monster-green);
+    -webkit-text-stroke: var(--cadet-blue) 1px;
+    text-align: center;
+}
+
+.content__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+}
+
+
+.monstrous__text {
+    width: 552px;
+}
+
+.reroll__text {
+    width: 661px;
+}
