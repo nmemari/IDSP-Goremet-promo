@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     height: 1285px;
     width: 965;
@@ -13,6 +13,7 @@
     -webkit-text-stroke: var(--cadet-blue) 2px;
     color: var(--monster-green);
     font-size: 65px;
+    margin-top: 350px;
     width: 500px;
     text-align: center;
 }
