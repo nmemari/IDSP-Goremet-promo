@@ -11,7 +11,7 @@ export default function NavBar() {
         <Image src={BunBun} width={80} height={80}/>
         <div>BunBun Studios</div>
       </div> 
-      <Link className={styles.btn} href={''}>Play Game</Link>
+      <Link className={styles.btn} href={'http://bjvqaptcfr.us18.qoddiapp.com/'}>Play Game</Link>
     </div>
   )
 }
