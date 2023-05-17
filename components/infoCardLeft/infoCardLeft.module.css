@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 850px;
+    margin: 40px;
+}
+
+.title {
+    width: 400px;
+    font-size: 45px;
+    margin-left: 50px;
+    font-family: 'Melted Monster', sans-serif;
+    -webkit-text-stroke: var(--cadet-blue) 1px; 
+    color: var(--monster-green);
+}
+
+.img {
+    border-radius: 10px;
+}

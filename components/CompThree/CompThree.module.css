@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 965px;
+    height: 1900px;
+    background-color: var(--rose-quartz);
+}
+
+.title {
+    width: 450px;
+    font-size: 60px;
+    font-family: 'Melted Monster', sans-serif;
+    -webkit-text-stroke: var(--cadet-blue) 1px; 
+    color: var(--monster-green);
+    text-align: center;
+    margin-top: 150px;
+}
