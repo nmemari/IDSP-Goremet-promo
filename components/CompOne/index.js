@@ -13,7 +13,7 @@ export default function CompOne() {
       backgroundRepeat: 'no-repeat'
     }}>
       <h1>G<span><Image src={Spud} width={70} height={100}/></span>remet Cuisines</h1>
-      <h3>Monstrously good eats for every tast bud!</h3>
+      <h3>Monstrously good eats for every taste bud!</h3>
       <div className={styles.charsCont}>
         <Image src={Vampire} width={190} height={280}/>
         <Link className={styles.btn} href={'http://bjvqaptcfr.us18.qoddiapp.com/'}>Play Now!</Link>
