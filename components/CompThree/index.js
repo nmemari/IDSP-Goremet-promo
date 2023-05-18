@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './CompThree.module.css'
-import Background from '@/public/Backgrounds/bkg3.svg'
+import Background from '@/public/Backgrounds/bkg3.png'
 import InfoCardLeft from '../infoCardLeft'
 import InfoCardRight from '../infoCardRight'
 import Image1 from '@/public/Comp3/Play with Friends Image.svg'
