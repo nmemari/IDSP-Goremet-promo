@@ -23,7 +23,7 @@ export default function CharSlider() {
                     <h1 className={styles.title}>{data[number].title}</h1>
                     <p className={styles.desc}>{data[number].description}</p>
                 </div>
-                <Image className={styles.character} src={data[number].char} width={210} height={410} />
+                <Image className={styles.character} src={data[number].char} height={350} width={210} />
             </div>
             <Image className={styles.arrow} src={ArrowRight} width={50} height={50} onClick={() => setNumber((number+1)%6)} />
         </div>

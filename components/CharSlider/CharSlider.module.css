@@ -28,7 +28,7 @@
 .charCont {
     display: flex;
     justify-content: space-around;
-    align-items: flex-end;
+    align-items: center;
     width: 600px;
 }
 
